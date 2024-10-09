@@ -1,0 +1,2 @@
+# CoreJavaPractice
+For Learning Purpose
