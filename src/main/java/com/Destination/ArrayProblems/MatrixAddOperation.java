@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class MatrixAddOperation {
 	int m1[][];
+	
 	int m2[][];
 	int add[][];
 	int a;
